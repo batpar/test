@@ -1,3 +1,3 @@
-# test
+#kill process by name in Golang
 
-This is my first test of the test repository
+The code only works for Linux .
